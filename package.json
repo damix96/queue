@@ -1,0 +1,24 @@
+{
+  "name": "damqueue",
+  "version": "1.0.0",
+  "description": "async Queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damix96/queue.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "damix96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damix96/queue/issues"
+  },
+  "homepage": "https://github.com/damix96/queue#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
